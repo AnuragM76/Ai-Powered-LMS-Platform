@@ -181,7 +181,7 @@ Built with a responsive design and performance-focused architecture, this platfo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Riddhish1/AI-Enhanced-LMS-Platform.git
+   git clone https://github.com/AnuragM76/Ai-Powered-LMS-Platform
    cd AI-Enhanced-LMS-Platform
    ```
 
